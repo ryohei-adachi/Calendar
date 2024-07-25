@@ -27,6 +27,10 @@ Calendar.htmlの<body></body>の中に下記の2行を追加する。
 
 <br>
 
+※画像はCalendar.htmlが置いてあるフォルダに置いてください。
+
+<br>
+
 ▼ Calendar.html
 
 ```
