@@ -60,7 +60,7 @@ Calendar.cssに下記のCSS言語の内容を記述する
 th {
     color: white;
     background-color: aqua;
-    text-shadow: 1px 1pc 0 #333;
+    text-shadow: 1px 1px 0 #333;
 }
 
 td:first-child {
