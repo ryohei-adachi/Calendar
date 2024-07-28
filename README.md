@@ -13,8 +13,8 @@ Calendar.htmlの<body></body>の中に下記の2行を追加する。
     <div class="illustration">
         <img src="XXXXXX" alt="画像">
     </div>
-    <div id="calender-title"></div>  ★追加
-    <div id="calender"></div>  ★追加
+    <div id="calendar-title"></div>  ★追加
+    <div id="calendar"></div>  ★追加
 </body>
 ```
 
